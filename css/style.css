@@ -1,0 +1,206 @@
+.container1 {
+
+    background-image: url('https://s3.amazonaws.com/makeitreal/cars/jaguar-xe.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:800px;
+    width:100%;
+}
+
+.container2 {
+    background-color: black;
+    position: fixed;
+    opacity:0.6;
+    top:80px;
+    left:20px;
+    right:20px;
+    width: 600px;
+}
+
+.text1 {
+    margin-top: 10px;
+	color:white;
+	margin-left: 10px;
+    margin-right: 10px;
+    font-family: "Roboto";
+}
+
+.text2 {
+    margin-top: 10px;
+    color:white;
+   margin-left: 10px;
+   margin-right: 10px;
+   font-family: "Roboto";
+}
+
+.btn {
+    background-color: #DB3030;
+    color: white;
+    border: 0px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+
+@media (min-width: 1250px) and (max-width: 1300px){
+    .container1 {
+        width:1250px;
+        height:833px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1249px){
+    .container1 {
+        width:1200px;
+        height:800px;
+    }
+}
+
+@media (min-width: 1150px) and (max-width: 1199px){
+    .container1 {
+        width:1150px;
+        height:766px;
+    }
+}
+
+@media (min-width: 1100px) and (max-width: 1149px){
+    .container1 {
+        width:1100px;
+        height:733px;
+    }
+}
+
+@media (min-width: 1050px) and (max-width: 1099px){
+    .container1 {
+        width:1050px;
+        height:700px;
+    }
+}
+
+
+@media (min-width: 1000px) and (max-width: 1049px){
+    .container1 {
+        width:1000px;
+        height:666px;
+    }
+}
+
+@media (min-width: 950px) and (max-width: 999px){
+    .container1 {
+        width:950px;
+        height:633px;
+    }
+}
+
+@media (min-width: 900px) and (max-width: 949px){
+    .container1 {
+        width:900px;
+        height:600px;
+    }
+}
+
+@media (min-width: 850px) and (max-width: 899px){
+    .container1 {
+        width:850px;
+        height:566px;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 849px){
+    .container1 {
+        width:800px;
+        height:533px;
+    }
+}
+
+@media (min-width: 750px) and (max-width: 799px){
+    .container1 {
+        width:750px;
+        height:500px;
+    }
+}
+
+@media (min-width: 700px) and (max-width: 749px){
+    .container1 {
+        width:700px;
+        height:466px;
+    }
+}
+
+@media (min-width: 650px) and (max-width: 699px){
+    .container1 {
+        width:650px;
+        height:433px;
+    }
+}
+
+
+@media (min-width: 600px) and (max-width: 649px){
+    .container1 {
+        width:650px;
+        height:400px;
+    }
+
+    .container2 {
+        width:600px;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 599px){
+    .container1 {
+        width:600px;
+        height:400px;
+    }
+
+    .container2 {
+        width:450px;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 499px){
+    .container1 {
+        width:600px;
+        height:400px;
+    }
+
+    .container2 {
+        width:350px;
+    }
+}
+
+@media (min-width: 300px) and (max-width: 399px){
+    .container1 {
+        width:600px;
+        height:400px;
+    }
+
+    .container2 {
+        width:250px;
+    }
+}
+
+@media (min-width: 200px) and (max-width: 299px){
+
+    .container1 {
+        width:600px;
+        height:400px;
+    }
+
+    .container2 {
+        width:250px;
+    }
+}
+
+@media (max-width: 199px){
+
+    .container1 {
+        width:600px;
+        height:400px;
+    }
+    
+    .container2 {
+        width:250px;
+    }
+}
+
